@@ -1,0 +1,50 @@
+{
+  "exercise_01": {
+    "input": {
+      "array1": ["3", 3, 3, 3, 3, 4, 4, 4],
+      "array2": ["avd", 1, 3, 3]
+    },
+    "output": {
+      "different": ["3", 4, "avd", 1],
+      "same": [3]
+    }
+  },
+  "exercise_02": {
+    "input": "nguyen tuan thanh",
+    "output": "Nguyen Tuan Thanh"
+  },
+  "exercise_03": {
+    "input": [0, -1, -5],
+    "output": "even"
+  },
+  "exercise_04": {
+    "input": {
+      "a": 7,
+      "b": 2,
+      "c": 3,
+      "d": 13
+    },
+    "output": {
+      "sum_of_a_and_b": 9,
+      "minus_of_c_with_d": -10,
+      "product_of_first_and_second_printed": -90,
+      "modulo_of_third_printed_with_a": -6
+    }
+  },
+  "exercise_05": {
+    "input": "test",
+    "output": "es"
+  },
+  "exercise_06": {
+    "input": 123456789,
+    "output": 987654321
+  },
+  "exercise_07": {
+    "input": "AAAABBBCCDAABBB",
+    "output": ["A", "B", "C", "D", "A", "B"]
+  },
+  "exercise_08": {
+    "input": [8, 2, 11, 100, 4, 8, 2602, 36],
+    "output": 11
+  }
+}
